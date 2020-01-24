@@ -1,9 +1,39 @@
 ![StandardRB](https://github.com/andrewmcodes/pruner/workflows/StandardRB/badge.svg)
 ![Tests](https://github.com/andrewmcodes/pruner/workflows/Tests/badge.svg)
 
-# Pruner
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/andrewmcodes/pruner">
+    <img src="https://repository-images.githubusercontent.com/235921931/1c26a800-3e2c-11ea-802c-68edb79fc033" alt="Logo">
+  </a>
 
-A small Ruby Gem to help you delete Git branches. This implementation is a bit naive so **be careful**. If you select the current branch you have checked out, the gem will **not** delete it.
+  <h2 align="center">Pruner</h2>
+
+  <p align="center">
+    A small Ruby Gem to help you delete Git branches.
+  </p>
+</p>
+
+<hr/>
+
+- [Notice](#notice)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Example](#example)
+    - [Step 1](#step-1)
+    - [Step 2](#step-2)
+    - [Step 3](#step-3)
+    - [Step 4](#step-4)
+- [Development](#development)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+  - [Coding Standards](#coding-standards)
+- [License](#license)
+
+## Notice
+
+This implementation is a bit naive so **be careful**. If you select the current branch you have checked out, the gem will **not** delete it.
 
 ## Installation
 
