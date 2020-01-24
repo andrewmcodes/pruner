@@ -27,8 +27,8 @@
     - [Step 4](#step-4)
 - [Development](#development)
 - [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
   - [Coding Standards](#coding-standards)
+- [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
 ## Notice
@@ -123,13 +123,13 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/andrewmcodes/pruner. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/andrewmcodes/pruner/blob/master/CODE_OF_CONDUCT.md).
 
-## Code of Conduct
-
-Everyone interacting in the Pruner project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/andrewmcodes/pruner/blob/master/CODE_OF_CONDUCT.md).
-
 ### Coding Standards
 
 This project uses [Standard](https://github.com/testdouble/standard) to minimize bike shedding related to code formatting.
+
+## Code of Conduct
+
+Everyone interacting in the Pruner project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/andrewmcodes/pruner/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
