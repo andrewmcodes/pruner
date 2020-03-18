@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pruner (0.1.0)
+    pruner (0.1.1)
       git (~> 1.6)
       tty-prompt (~> 0.21)
 
