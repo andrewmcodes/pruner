@@ -27,7 +27,7 @@ module Pruner
       # @return [array] all branches
       #
       def branches
-        git.branches.to_a
+        git.branches.local.to_a
       end
 
       #
