@@ -18,6 +18,7 @@
 <hr/>
 
 - [Notice](#notice)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
   - [Example](#example)
@@ -34,6 +35,10 @@
 ## Notice
 
 This implementation is a bit naive so **be careful**. If you select the current branch you have checked out, the gem will **not** delete it.
+
+## Demo
+
+[![asciicast](https://asciinema.org/a/x94EQbQe3GauDzErwJf3Rq1Kl.svg)](https://asciinema.org/a/x94EQbQe3GauDzErwJf3Rq1Kl)
 
 ## Installation
 
